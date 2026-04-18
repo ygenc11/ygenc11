@@ -51,13 +51,6 @@
 
 ---
 
-### LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ygenc11?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats">
-</p>
-
----
 
 
 ### Contact
