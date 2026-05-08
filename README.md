@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yusuf GENÇ</h1>
+<h1 align="center">Hi, I'm Yusuf Genç</h1>
 <p align="center">
   Electrical & Electronics Engineering Graduate | Software Developer & Head of <a href="https://ectrova.com" target="_blank">ECTROVA</a>
 </p>
@@ -9,6 +9,7 @@
 
 - 🚀 I’m a Software Developer focusing on modern web architectures and scalable full-stack SaaS applications.
 - 🏢 Passionate about building intelligent digital solutions and driving operational efficiency through my venture studio, [ECTROVA](https://ectrova.com).
+- 💼 Currently expanding my enterprise and corporate experience as an IT Intern at Burgan Bank.
 - 🌍 Graduate of Marmara University with international academic experience (Erasmus+ at UPM, Spain).
 - ⚙️ Continuously integrating AI-driven workflows into my development process to maximize code quality, maintainability, and delivery speed.
 
@@ -47,7 +48,7 @@
 
 ### What I’m Working On
 
-- 🏗️ Leading **[ECTROVA](https://ectrova.com)**, a digital architecture agency and venture studio, incubating internal SaaS projects under its umbrella.
+- 🏗️ Leading **[ECTROVA](https://ectrova.com)**, an AI-driven venture studio and digital product lab, incubating internal SaaS platforms under its umbrella.
 - 💻 Building responsive, highly optimized full-stack web applications primarily utilizing **Next.js** and **TypeScript**.
 - ⚡ Focusing on clean code architectures, modern web standards, and seamless user experiences.
 - 🤖 Integrating AI solutions to automate operational workflows and enhance product ecosystems.
@@ -57,8 +58,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ygenc11&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygenc11&layout=compact&theme=radical" alt="Top Langs" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ygenc11&theme=radical&hide_border=true" alt="GitHub Streak" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygenc11&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="170">
 </p>
 
 ---
