@@ -63,10 +63,12 @@
 
 ---
 
-### Contact
-
-**Email:** [ygenc1536@gmail.com](mailto:ygenc1536@gmail.com)  
-**LinkedIn:** [ygenc11](https://www.linkedin.com/in/yusufgenc11/)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382FF&center=true&vCenter=true&width=300&lines=Let's+Connect!" alt="Typing SVG" />
+  <br><br>
+  <a href="mailto:ygenc1536@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yusufgenc11/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+</div>
 
 ---
 
