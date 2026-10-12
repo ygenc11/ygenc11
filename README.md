@@ -15,6 +15,12 @@
   <a href="mailto:ygenc1536@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ygenc11">
+    <img src="https://streak-stats.demolab.com/?user=ygenc11&amp;theme=github-dark-blue&amp;hide_border=true&amp;border_radius=12&amp;ring=58A6FF&amp;fire=F97316&amp;currStreakLabel=58A6FF&amp;timezone=Europe%2FIstanbul" alt="Yusuf Genç's GitHub contribution streak" width="495" />
+  </a>
+</p>
+
 ---
 
 ### About me
@@ -55,23 +61,11 @@ I'm a software developer with a background in **Electrical & Electronics Enginee
 
 ### AI workspace
 
-I use AI tools for prototyping, refactoring, and exploring architecture decisions, while reviewing the output for correctness and maintainability.
-
 ![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=flat-square&logo=cursor&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0D1117?style=flat-square&logo=githubcopilot&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square)
 ![Antigravity](https://img.shields.io/badge/Antigravity-FF6C37?style=flat-square)
-
----
-
-### GitHub streak
-
-<p align="center">
-  <a href="https://github.com/ygenc11">
-    <img src="https://streak-stats.demolab.com/?user=ygenc11&amp;theme=github-dark-blue&amp;hide_border=true&amp;border_radius=12&amp;ring=58A6FF&amp;fire=F97316&amp;currStreakLabel=58A6FF&amp;timezone=Europe%2FIstanbul" alt="Yusuf Genç's GitHub contribution streak" width="495" />
-  </a>
-</p>
 
 ---
 
