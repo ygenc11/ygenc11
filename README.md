@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://ectrova.com"><img src="https://img.shields.io/badge/ECTROVA-0D1117?style=for-the-badge&amp;logoColor=58A6FF" alt="ECTROVA website" /></a>
-  <a href="https://www.linkedin.com/in/yusufgenc11/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ygenc1536@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ygenc11">
     <img src="https://streak-stats.demolab.com/?user=ygenc11&amp;theme=github-dark-blue&amp;hide_border=true&amp;border_radius=12&amp;ring=58A6FF&amp;fire=F97316&amp;currStreakLabel=58A6FF&amp;timezone=Europe%2FIstanbul" alt="Yusuf Genç's GitHub contribution streak" width="495" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://ectrova.com"><img src="https://img.shields.io/badge/ECTROVA-0D1117?style=for-the-badge&amp;logoColor=58A6FF" alt="ECTROVA website" /></a>
+  <a href="https://www.linkedin.com/in/yusufgenc11/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ygenc1536@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
 </p>
 
 ---
@@ -40,32 +40,9 @@ I'm a software developer with a background in **Electrical & Electronics Enginee
 
 ### Tech stack
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend & full-stack**
-
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-
-**Backend & tooling**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### AI workspace
-
-![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=flat-square&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0D1117?style=flat-square&logo=githubcopilot&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square)
-![Antigravity](https://img.shields.io/badge/Antigravity-FF6C37?style=flat-square)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,dotnet,postgres,docker,git,postman&amp;perline=10" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, .NET, PostgreSQL, Docker, Git, Postman" />
+</p>
 
 ---
 
